@@ -6,5 +6,4 @@ https://sso.garmin.com/portal/sso/it-IT/sign-in?clientId=GarminConnect&service=h
 
 
 
-https://filippo1993.github.io/garmin-myruns/gps_trip.html
-
+<a href="https://filippo1993.github.io/garmin-myruns/gps_trip.html" target="_blank">GPS Trip Visualization</a>
