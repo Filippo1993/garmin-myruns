@@ -3,3 +3,8 @@ Repository of scripts to nicely plot and visualize interesting information about
 
 Works with .gpx files downloadable from Garmin Connect website
 https://sso.garmin.com/portal/sso/it-IT/sign-in?clientId=GarminConnect&service=https%3A%2F%2Fconnect.garmin.com%2Fmodern%2F
+
+
+
+https://filippo1993.github.io/garmin-myruns/gps_trip.html
+
